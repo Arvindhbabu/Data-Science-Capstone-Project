@@ -1,9 +1,26 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![GitHub last commit](https://img.shields.io/github/last-commit/Arvindhbabu/Data-Science-Capstone-Project)
+
+
 # 🚀 SpaceY Launch Prediction Dashboard
 
 An interactive machine learning-powered web dashboard that predicts the success of SpaceX booster landings using public data, logistic regression, and modern data visualization tools.
 
 > 🌐 Live App: [Click here to visit](https://your-streamlit-link.streamlit.app)  
 > 📁 Repo: [GitHub Source Code](https://github.com/your-username/spacey-dashboard)
+
+---
+
+## 📸 Screenshots
+
+### 🚀 Streamlit Dashboard Interface
+![Dashboard](images/dashboard-preview.png)
+
+### 🛰️ Launch Site Map
+![Launch Sites](images/launch-site.png)
 
 ---
 
