@@ -1,5 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Arvindhbabu/Data-Science-Capstone-Project)
@@ -16,11 +16,8 @@ An interactive machine learning-powered web dashboard that predicts the success 
 
 ## 📸 Screenshots
 
-### 🚀 Streamlit Dashboard Interface
-![Dashboard](images/dashboard-preview.png)
-
 ### 🛰️ Launch Site Map
-![Launch Sites](images/launch-site.png)
+![Launch Sites](https://github.com/Arvindhbabu/Data-Science-Capstone-Project/blob/0cfae298937dc597a9f7c7b687c070f4761cd82a/dashboard/launch_site.jpg)
 
 ---
 
