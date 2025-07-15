@@ -4,6 +4,9 @@ import pandas as pd
 import joblib
 import numpy as np
 import os
+import streamlit as st
+from PIL import Image
+
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -15,6 +18,11 @@ data_path = os.path.join(BASE_DIR, '..', 'data', 'cleaned_spacex_launches.csv')
 model = joblib.load(model_path)
 scaler = joblib.load(scaler_path)
 df = pd.read_csv(data_path)
+
+# Load and display the launch site image
+st.subheader("🛰️ SpaceX Launch Site Overview")
+image = Image.open(r"C:\Users\varav\Documents\Projects\Data_Science_Capstone\spacey_capstone\dashboard\launch_site.jpg")
+st.image(image, caption="Primary Launch Location - SpaceX", use_container_width=True)
 
 # Sidebar Inputs
 st.sidebar.title("🚀 Launch Prediction Input")
