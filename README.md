@@ -12,14 +12,7 @@ An interactive machine learning-powered web dashboard that predicts the success 
 > 🌐 Live App: [Click here to visit](https://your-streamlit-link.streamlit.app)  
 > 📁 Repo: [GitHub Source Code](https://github.com/your-username/spacey-dashboard)
 
----
 
-## 📸 Screenshots
-
-### 🛰️ Launch Site Map
-![Launch Sites](https://github.com/Arvindhbabu/Data-Science-Capstone-Project/blob/0cfae298937dc597a9f7c7b687c070f4761cd82a/dashboard/launch_site.jpg)
-
----
 
 ## 🧠 Project Overview
 
@@ -29,6 +22,8 @@ This capstone project simulates the role of a **data scientist at SpaceY**, a fi
 - Visualize success rates across **orbits** and **launch sites**
 - Provide an interactive tool for engineers and stakeholders
 
+  
+![Project](C:\Users\varav\Documents\Projects\Data_Science_Capstone\spacey_capstone\dashboard\Description.png)
 ---
 
 ## 📊 Features
@@ -59,21 +54,28 @@ This capstone project simulates the role of a **data scientist at SpaceY**, a fi
 
 spacey_capstone/
 
-├── dashboard/                 
+├── dashboard/  
+ 
 │   ├── app.py                 
 │   ├── model.pkl              
-│   └── scaler.pkl  
+│   └── scaler.pkl
 
-│data/  
-       └── cleaned_spacex_launches.csv  
+├──data/  
+│   ├──cleaned_spacex_launches.csv  
 
-| notebooks/                
-       └── SpaceY_Modeling.ipynb   
+├──notebooks/                
+│   ├── SpaceY_Modeling.ipynb   
 
-│
 ├── requirements.txt          
-| README.md             
+├──README.md             
 
+
+---
+
+
+
+### 🛰️ Launch Site Map
+![Launch Sites](https://github.com/Arvindhbabu/Data-Science-Capstone-Project/blob/0cfae298937dc597a9f7c7b687c070f4761cd82a/dashboard/launch_site.jpg)
 
 ---
 
