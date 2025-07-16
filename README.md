@@ -9,7 +9,7 @@
 
 An interactive machine learning-powered web dashboard that predicts the success of SpaceX booster landings using public data, logistic regression, and modern data visualization tools.
 
-> 🌐 Live App: [Click here to visit](https://your-streamlit-link.streamlit.app)  
+> 🌐 Live App: [Click here to visit](https://data-science-capstone-project-kpnxrlgx3w2hp7heqhvmk6.streamlit.app/)  
 > 📁 Repo: [GitHub Source Code](https://github.com/your-username/spacey-dashboard)
 
 
