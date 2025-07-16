@@ -23,7 +23,7 @@ This capstone project simulates the role of a **data scientist at SpaceY**, a fi
 - Provide an interactive tool for engineers and stakeholders
 
   
-![Project](C:\Users\varav\Documents\Projects\Data_Science_Capstone\spacey_capstone\dashboard\Description.png)
+![Project](https://github.com/Arvindhbabu/Data-Science-Capstone-Project/blob/88aba9293e653fb7946867a89d2f0414b46c8562/dashboard/Description.png)
 ---
 
 ## 📊 Features
@@ -74,7 +74,7 @@ spacey_capstone/
 
 
 
-### 🛰️ Launch Site Map
+### 🛰️ Launch Site
 ![Launch Sites](https://github.com/Arvindhbabu/Data-Science-Capstone-Project/blob/0cfae298937dc597a9f7c7b687c070f4761cd82a/dashboard/launch_site.jpg)
 
 ---
